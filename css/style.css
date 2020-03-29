@@ -52,22 +52,21 @@ html {
 }
 .main-navbar-nav li {
   color: #fff;
-  opacity: .7;
 }
 .main-navbar-nav .navbar-nav .nav-item a:hover {
-  color: #ef7d26 !important;
+  color: #FFF !important;
   -webkit-transition: all .33s ease;
   -moz-transition: all .33s ease;
   -o-transition: all .33s ease;
   -ms-transition: all .33s ease;
   transition: all .33s ease;
 }
-.main-navbar-nav .active {
+.main-navbar-nav a {
+  color: #e5c5b0 !important;
+}
+.main-navbar-nav .active a {
   color: #fff !important;
   opacity: 1 !important;
-}
-.main-navbar-nav a {
-  color: #fff !important;
 }
 .main-navbar-nav .nav-link {
   opacity: 1 !important;
