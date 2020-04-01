@@ -992,3 +992,19 @@ html {
     text-align: center;
   }
 }
+
+/* ---------------------------------- */
+
+#counters {
+    width: 400px;
+    font-size: 14px;
+    color: #fff;
+    line-height: 2em;
+    margin: 15px 0 10px;
+
+    display: none;
+}
+
+#counters p {
+    margin: 0px !important;
+}

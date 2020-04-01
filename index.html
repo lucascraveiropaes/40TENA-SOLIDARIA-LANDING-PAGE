@@ -73,17 +73,23 @@
 						<a class="nav-link" href="#"  onclick="$('#fh5co-download').goTo();return false;">Download</a>
 					</li>
 				</ul>
-				<!-- <div class="social-icons-header">
-					<a href="https://www.facebook.com/fh5co"><i class="fab fa-facebook-f"></i></a>
-					<a href="https://freehtml5.co"><i class="fab fa-instagram"></i></a>
-					<a href="https://www.twitter.com/fh5co"><i class="fab fa-twitter"></i></a>
-				</div> -->
+				<div class="social-icons-header">
+					<a href="https://www.instagram.com/quarentenasolidariaapp/" target="_blank"><i class="fab fa-instagram"></i></a>
+					<a href="https://twitter.com/40tenaSolidaria" target="_blank"><i class="fab fa-twitter"></i></a>
+				</div>
 			</div>
 		</nav>
 
 		<div class="container fh5co-hero-inner">
 			<h1 class="animated fadeIn wow" data-wow-delay="0.4s">Quarentena Solidária</h1>
-			<p class="animated fadeIn wow" data-wow-delay="0.67s">Busque por voluntários para receber ajuda. Ir ao mercado, à farmácia e outras atividades são mais fáceis quando temos ajuda.</p>
+
+			<div id="counters">
+				<p class="animated fadeIn wow" data-wow-delay="0.5s"><b>Usuários:</b> <span id="users"></span></p>
+				<p class="animated fadeIn wow" data-wow-delay="0.5s"><b>Voluntários:</b> <span id="volunteers"></span></p>
+				<p class="animated fadeIn wow" data-wow-delay="0.5s"><b>Total:</b> <span id="total"></span></p>
+			</div>
+
+			<p style="margin-top: 10px" class="animated fadeIn wow" data-wow-delay="0.67s">Busque por voluntários para receber ajuda. Ir ao mercado, à farmácia e outras atividades são mais fáceis quando temos ajuda.</p>
 			<button class="btn btn-md download-btn-first wow fadeInLeft animated" data-wow-delay="0.85s" onclick="$('#fh5co-download').goTo();return false;">Download</button>
 			<button class="btn btn-md features-btn-first animated fadeInLeft wow" data-wow-delay="0.95s" onclick="$('#fh5co-features').goTo();return false;">Funcionalidades</button>
 			<img class="fh5co-hero-smartphone animated fadeInRight wow" data-wow-delay="1s" src="img/prints/Home.png" alt="Home">
@@ -269,11 +275,10 @@
 					</nav>
 				</div>
 				<div class="column-3-3">
-					<!-- <div class="social-icons-footer">
-						<a href="https://www.facebook.com/fh5co"><i class="fab fa-facebook-f"></i></a>
-						<a href="https://freehtml5.co"><i class="fab fa-instagram"></i></a>
-						<a href="https://www.twitter.com/fh5co"><i class="fab fa-twitter"></i></a>
-					</div> -->
+					<div class="social-icons-footer">
+						<a href="https://www.instagram.com/quarentenasolidariaapp/" target="_blank"><i class="fab fa-instagram"></i></a>
+						<a href="https://twitter.com/40tenaSolidaria" target="_blank"><i class="fab fa-twitter"></i></a>
+					</div>
 				</div>
 			</div>
 
@@ -284,15 +289,13 @@
 		</div>
 	</footer>
 
+	</div> <!-- main page wrapper -->
 
-
-
-</div> <!-- main page wrapper -->
-
-	<script src="js/jquery.min.js"></script>
-	<script src="js/bootstrap.js"></script>
-	<script src="js/owl.carousel.js"></script>
-	<script src="js/wow.min.js"></script>
-	<script src="js/main.js"></script>
-</body>
+		<script src="js/jquery.min.js"></script>
+		<script src="js/bootstrap.js"></script>
+		<script src="js/owl.carousel.js"></script>
+		<script src="js/wow.min.js"></script>
+		<script src="js/main.js"></script>
+		<script src="js/counters.js"></script>
+	</body>
 </html>
