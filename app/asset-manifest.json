@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ec199a2.chunk.css",
-    "main.js": "/static/js/main.e64e15c7.chunk.js",
-    "main.js.map": "/static/js/main.e64e15c7.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.fa4a79a6.chunk.css": "/static/css/2.fa4a79a6.chunk.css",
-    "static/js/2.542dc4d7.chunk.js": "/static/js/2.542dc4d7.chunk.js",
-    "static/js/2.542dc4d7.chunk.js.map": "/static/js/2.542dc4d7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0c4ad07bef0710e579849c3eb191416b.js": "/precache-manifest.0c4ad07bef0710e579849c3eb191416b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.fa4a79a6.chunk.css.map": "/static/css/2.fa4a79a6.chunk.css.map",
-    "static/css/main.8ec199a2.chunk.css.map": "/static/css/main.8ec199a2.chunk.css.map",
-    "static/media/4-seja-voluntario.png": "/static/media/4-seja-voluntario.9716a4c1.png",
-    "static/media/pin.png": "/static/media/pin.40f7165c.png"
+    "main.css": "/app/static/css/main.8ec199a2.chunk.css",
+    "main.js": "/app/static/js/main.5e1406e6.chunk.js",
+    "main.js.map": "/app/static/js/main.5e1406e6.chunk.js.map",
+    "runtime~main.js": "/app/static/js/runtime~main.d465ad9e.js",
+    "runtime~main.js.map": "/app/static/js/runtime~main.d465ad9e.js.map",
+    "static/css/2.fa4a79a6.chunk.css": "/app/static/css/2.fa4a79a6.chunk.css",
+    "static/js/2.542dc4d7.chunk.js": "/app/static/js/2.542dc4d7.chunk.js",
+    "static/js/2.542dc4d7.chunk.js.map": "/app/static/js/2.542dc4d7.chunk.js.map",
+    "index.html": "/app/index.html",
+    "precache-manifest.12b851cd178efd19e056330e78b6b789.js": "/app/precache-manifest.12b851cd178efd19e056330e78b6b789.js",
+    "service-worker.js": "/app/service-worker.js",
+    "static/css/2.fa4a79a6.chunk.css.map": "/app/static/css/2.fa4a79a6.chunk.css.map",
+    "static/css/main.8ec199a2.chunk.css.map": "/app/static/css/main.8ec199a2.chunk.css.map",
+    "static/media/4-seja-voluntario.png": "/app/static/media/4-seja-voluntario.9716a4c1.png",
+    "static/media/pin.png": "/app/static/media/pin.40f7165c.png"
   }
 }
